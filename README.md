@@ -1,2 +1,2 @@
-# TheOdinProject
+# odin-assignmenta
 TheOdinProject
